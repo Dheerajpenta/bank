@@ -1,0 +1,4 @@
+dheeraj :       40
+
+python             : 10
+bank:20
